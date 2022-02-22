@@ -1,0 +1,2 @@
+debian/bin/herbcoind usr/bin
+src/herbcoind usr/lib/herbcoin

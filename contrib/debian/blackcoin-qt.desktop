@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Herbcoin
+Comment=Herbcoin P2P Cryptocurrency
+Comment[fr]=Herbcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Herbcoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/herbcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/herbcoin;
+Categories=Office;
