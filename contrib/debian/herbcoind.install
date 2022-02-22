@@ -1,3 +1,0 @@
-usr/local/bin/herbcoind usr/bin
-usr/local/bin/herbcoin-cli usr/bin
-debian/examples/herbcoin.conf etc/herbcoin
