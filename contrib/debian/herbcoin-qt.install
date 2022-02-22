@@ -1,0 +1,6 @@
+usr/local/bin/herbcoin-qt usr/bin
+share/pixmaps/herbcoin32.xpm usr/share/pixmaps
+share/pixmaps/herbcoin16.xpm usr/share/pixmaps
+share/pixmaps/herbcoin128.png usr/share/pixmaps
+debian/herbcoin-qt.desktop usr/share/applications
+debian/herbcoin-qt.protocol usr/share/kde4/services/

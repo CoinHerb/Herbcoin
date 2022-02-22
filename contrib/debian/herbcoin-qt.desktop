@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Herbcoin Core
+Comment=Herbcoin P2P Cryptocurrency
+Comment[fr]=Herbcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Herbcoin, eşten eşe kriptografik sanal para birimi
+Exec=herbcoin-qt %u
+Terminal=false
+Type=Application
+Icon=herbcoin128
+MimeType=x-scheme-handler/herbcoin;
+Categories=Office;Finance;
+StartupWMClass=Herbcoin-qt
